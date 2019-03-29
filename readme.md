@@ -21,10 +21,9 @@
 <!-- repo = 'sapegin/mrm' -->
 <!-- commit = 'f4892d3eee6bc52b3805181f2b813e8ea9eaba7f' -->
 <!-- time = '2018-10-09' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-10-09 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-10-09 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/sapegin/mrm.svg
 [commit]: https://github.com/sapegin/mrm/tree/f4892d3eee6bc52b3805181f2b813e8ea9eaba7f
@@ -37,7 +36,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
